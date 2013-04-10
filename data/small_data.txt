@@ -1,0 +1,186 @@
+****
+IP: 69.31.36.59
+UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.77 Safari/535.7
+U: businessweek.com
+R: 
+****
+****
+IP: 66.245.41.19
+UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+U: http://www.salon.com/category/news//
+R: 
+****
+****
+IP: 72.70.250.79
+UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; .NET4.0C; .NET4.0E; MS-RTC LM 8)
+U: 001.audiencescience.com
+R: 
+****
+****
+IP: 100.251.74.45
+UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB7.2; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; MS-RTC LM 8; .NET4.0C; AskTbFWV5/5.13.0.17701)
+U: http://www.dailyrx.com/
+R: 
+****
+****
+IP: 112.247.45.5
+UA: 
+U: 
+R: 
+****
+****
+IP: 76.125.188.56
+UA: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+U: http://optimized-by.rubiconproject.com/a/8240/13310/25502-2.html?cb=0.2951750941336969&rf=http%3A//www.mangareader.net/ad/top1
+R: 
+****
+****
+IP: 12.52.142.30
+UA: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:8.0.1) Gecko/20100101 Firefox/8.0.1
+U: http://adcast.deviantart.com/delivery/afr.php?refresh=45&zoneid=339&cb=1923418555&loc=http%3A%2F%2Fwww.da-ads.com%2Fstatic_adframe.html%3F7
+R: 
+****
+****
+IP: 231.2.123.54
+UA: Mozilla/5.0 (Windows NT 6.1
+U: http://www.sandraandwoo.com/
+R: 
+****
+****
+IP: 101.243.14.199
+UA: Mozilla/5.0 (iPhone; U; CPU iPhone OS 5_0_1 like Mac OS X; en_US) AppleWebKit (KHTML, like Gecko) Mobile [FBAN/FBForIPhone;FBAV/4.1;FBBV/4100.0;FBDV/iPhone4,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/5.0.1;FBSS/2; FBCR/AT&T;FBID/phone;FBLC/en_US;FBSF/2.0]
+U: http://www.lolhappens.com/18038/in-a-nightclub-perception-vs-reality/
+R: 
+****
+****
+IP: 31.41.63.82
+UA: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.77 Safari/535.7
+U: http://ads.bollyhouse.com/300x250.html
+R: 
+****
+****
+IP: 0.158.161.197
+UA: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2.16) Gecko/20110319 Firefox/3.6.16
+U: http://www.boston.com/
+R: 
+****
+****
+IP: 69.174.141.80
+UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.75 Safari/535.7
+U: http://www.dbz.tv/ads/120x600.html
+R: 
+****
+****
+IP: 29.132.15.127
+UA: Mozilla/5.0 (Windows NT 5.1
+U: http://hulkshare.com/lifeDNA.php?slot=Landing1-300x250-ATF-Left
+R: 
+****
+****
+IP: 72.186.212.66
+UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.77 Safari/535.7
+U: http://www.digimogul.com/publishers/notalwaysright/rubicon_160_600_1.html
+R: 
+****
+****
+IP: 71.8.86.19
+UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; BTRS122701; GTB7.2; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; .NET4.0C; AskTbFWV5/5.14.0.19709)
+U: http://national.citysearch.com/profile/605382452/murrieta_ca/real_goods_solar.html?publisher=freedirectoryguide&raid=89308492&c=000700000960d3614b4154491ca2957ced3f4fd342&cgrefid=678007fdb555440689670c6c68fc59b1
+R: 
+****
+****
+IP: 76.30.158.140
+UA: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB7.2)
+U: http://www.celebrity-gossip.net/
+R: http://www.celebrity-gossip.net/olivia-wilde/olivia-wilde-covers-april-2011-c...
+****
+****
+IP: 68.37.97.6
+UA: Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.4; en-US; rv:1.9.2.25) Gecko/20111212 Firefox/3.6.25
+U: 003.microsoftadvertisingexchange.com
+R: 
+****
+****
+IP: 24.59.43.81
+UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.75 Safari/535.7
+U: 
+R: 
+****
+****
+IP: 69.51.250.32
+UA: Mozilla/4.0 (compatible
+U: http://www.filmannex.com/?utm_source=Miva
+R: 
+****
+****
+IP: 71.119.97.201
+UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.52.7 (KHTML, like Gecko) Version/5.1.2 Safari/534.52.7
+U: http://imgur.com/gallery/YfbOb
+R: 
+****
+****
+IP: 102.37.11.190
+UA: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.15) Gecko
+U: http://www.jenkatgames.com/loadad.php?type=300x250
+R: 
+****
+****
+IP: 71.237.72.23
+UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.77 Safari/535.7
+U: http://edge.jeetyetmedia.com/728x90_www_youtube_com.htm?clientId=432715e7-6446-44c3-b600-994b2a62b84f
+R: 
+****
+****
+IP: 99.1.2.22
+UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB7.2; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.30618; .NET CLR 3.5.30729; BRI/1)
+U: http://www.usbuildingdigest.com/
+R: 
+****
+****
+IP: 71.132.137.25
+UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SearchToolbar 1.2; GTB7.2; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET4.0C; .NET CLR 3.0.30729)
+U: audiencescience.com
+R: 
+****
+****
+IP: 123.221.228.167
+UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.77 Safari/535.7
+U: http://natabanu.freeshoutbox.net/
+R: 
+****
+****
+IP: 71.7.251.154
+UA: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.77 Safari/535.7
+U: 
+R: 
+****
+****
+IP: 58.25.124.106
+UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; WinTSI 04.03.2010)
+U: http://www.hallofstyle.com/iframepull7.html
+R: 
+****
+****
+IP: 99.195.137.133
+UA: Mozilla/5.0 (Windows NT 5.1
+U: http://www.sportscity.com/NFL/Carolina-Panthers-Salaries
+R: 
+****
+****
+IP: 97.82.95.16
+UA: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+U: http://www.myyearbook.com/ajax/iframe_ads_stitial.php?&section=HAL_BTF_Left
+R: 
+****
+****
+IP: 91.172.249.32
+UA: Mozilla/5.0 (Windows NT 6.1
+U: http://www.listentoyoutube.com/process.php
+R: 
+****
+****
+IP: 24.39.200.68
+UA: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; MALC; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; AskTbORJ/5.13.1.18107)
+U: collective-exchange.com
+R: 
+****
