@@ -1,7 +1,7 @@
 
 
 CREATE TABLE "data_table" (
-"user_id" INTEGER NOT NULL,
+"user_ip" INTEGER NOT NULL,
 "keyword" TEXT NOT NULL
 );
 
